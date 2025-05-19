@@ -1,0 +1,9 @@
+*.zip
+.htaccess
+
+# Project dev files
+vendor/
+node_modules/
+
+# Production build
+dist/

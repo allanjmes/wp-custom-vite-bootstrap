@@ -1,0 +1,5 @@
+// custom scss
+import '../style/main.scss';
+
+// Import Bootstrap JS
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';

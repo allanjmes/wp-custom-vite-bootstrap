@@ -1,0 +1,10 @@
+@import 'theme-colors';
+
+// IMPORT BOOTSTRAP OVERRIDE COLORS - REQUIRED: before Bootstrap SCSS
+@import 'bootstrap-override-colors';
+
+// IMPORT BOOTSTRAP SCSS - REQUIRED: after Override colors
+@import "bootstrap/scss/bootstrap";
+
+@import 'core';
+@import 'fonts';
