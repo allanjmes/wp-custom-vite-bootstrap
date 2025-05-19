@@ -27,5 +27,5 @@ Open Code Editor, go to your themes directory `/themes/my-custom-vite`
 Open Code Editor Terminal, run `npm run dev`
 
 - ### Production
-Run `npm run build`
+Run `npm run build`  
 Upload the generated `/dist` folder into your themes directory `/themes/my-custom-vite/dist`
