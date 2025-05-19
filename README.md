@@ -13,6 +13,16 @@ Integrated Jquery on functions.php
 
 ## How to use on Laragon
 - ### Clone to Wordpress files, under `/themes` folder
+`sample-project/wp-content/themes/my-custom-vite`
+```
+sample-project/
+├── wp-admin/
+├── wp-content/
+│   └── themes/
+│       └── my-custom-vite/
+│           └── files
+└── wp-includes/
+```
 - ### Root directory
 Your folder name should match the wp_options table on DB
 ```
