@@ -21,9 +21,9 @@ wp_options siteurl -> http://localhost/sample-project
 wp_options home -> http://localhost/sample-project
 ```
 - ### Development
-Open Laragon Terminal
-Navigate to localhost http://localhost/sample-project
-Open Code Editor, go to your themes directory `/themes/my-custom-vite`
+Open Laragon Terminal  
+Navigate to localhost `http://localhost/sample-project`  
+Open Code Editor, go to your themes directory `/themes/my-custom-vite`  
 Open Code Editor Terminal, run `npm run dev`
 
 - ### Production
