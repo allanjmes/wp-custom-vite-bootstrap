@@ -25,6 +25,6 @@ export default defineConfig({
     emptyOutDir: false,
   },
   plugins: [
-    FullReload(['./**/*.php']), // ⬅️ Make sure this is outside `server`
+    FullReload(['./**/*.php']), // reloads all php files inside theme directory
   ],
 })
